@@ -1,0 +1,12 @@
+C:\dev\todo\todo.domain.infra\bin\Debug\net5.0\todo.domain.infra.deps.json
+C:\dev\todo\todo.domain.infra\bin\Debug\net5.0\todo.domain.infra.dll
+C:\dev\todo\todo.domain.infra\bin\Debug\net5.0\ref\todo.domain.infra.dll
+C:\dev\todo\todo.domain.infra\bin\Debug\net5.0\todo.domain.infra.pdb
+C:\dev\todo\todo.domain.infra\obj\Debug\net5.0\todo.domain.infra.csproj.AssemblyReference.cache
+C:\dev\todo\todo.domain.infra\obj\Debug\net5.0\todo.domain.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\todo\todo.domain.infra\obj\Debug\net5.0\todo.domain.infra.AssemblyInfoInputs.cache
+C:\dev\todo\todo.domain.infra\obj\Debug\net5.0\todo.domain.infra.AssemblyInfo.cs
+C:\dev\todo\todo.domain.infra\obj\Debug\net5.0\todo.domain.infra.csproj.CoreCompileInputs.cache
+C:\dev\todo\todo.domain.infra\obj\Debug\net5.0\todo.domain.infra.dll
+C:\dev\todo\todo.domain.infra\obj\Debug\net5.0\ref\todo.domain.infra.dll
+C:\dev\todo\todo.domain.infra\obj\Debug\net5.0\todo.domain.infra.pdb
